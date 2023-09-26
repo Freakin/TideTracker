@@ -2,3 +2,4 @@ noaa_coops
 matplotlib
 numpy
 Astral
+Pillow==9.5.0
